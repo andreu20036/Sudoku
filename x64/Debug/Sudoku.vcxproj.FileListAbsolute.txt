@@ -1,0 +1,5 @@
+C:\Users\andreu20036\source\C++\OOP\Sudoku\x64\Debug\Sudoku.vcxproj.AssemblyReference.cache
+C:\Users\andreu20036\source\C++\OOP\Sudoku\x64\Debug\Sudoku.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\andreu20036\source\C++\OOP\Sudoku\x64\Debug\Sudoku.exe
+C:\Users\andreu20036\source\C++\OOP\Sudoku\x64\Debug\Sudoku.MyForm.resources
+C:\Users\andreu20036\source\C++\OOP\Sudoku\x64\Debug\Sudoku.vcxproj.GenerateResource.cache
